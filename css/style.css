@@ -2,7 +2,7 @@ body
 {
     color: blue;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #cabecera{
     background-color: #00008b;
